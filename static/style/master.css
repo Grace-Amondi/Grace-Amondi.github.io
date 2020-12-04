@@ -707,7 +707,7 @@ h6 {
   max-width: 750px; }
 
 .section {
-  padding: 100px 0; }
+  padding: 50px 0; }
   @media (max-width: 991px) {
     .section {
       padding-top: 80px;
@@ -5299,6 +5299,33 @@ h6 {
     .feature-box-2:hover h5 {
       color: #090a0c; }
 
+.feature-box-3 {
+  padding: 18px 15px;
+  border-radius: 5px;
+  background: #ffffff;
+  border: 2px solid#17a2b8;
+  box-shadow: 0px 30px 60px 0px rgba(38, 59, 94, 0.1);
+  -moz-transition: ease all 0.35s;
+  -o-transition: ease all 0.35s;
+  -webkit-transition: ease all 0.35s;
+  transition: ease all 0.35s; }
+  .feature-box-3 .icon {
+    font-size: 30px;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    color: #004085; }
+  .feature-box-3 h5 {
+    margin: 0;
+    font-size: 16px;
+    color: #090a0c; }
+  .feature-box-3:hover {
+    background: #ffffff; }
+    .feature-box-3:hover .icon {
+      color: #17a2b8; }
+    .feature-box-3:hover h5 {
+      color: #090a0c; }
+      
 /* Services
 ------------------*/
 .feature-box-1 {
@@ -5569,3 +5596,8 @@ h6 {
     font-size: 14px; }
 
 /*# sourceMappingURL=master.css.map */
+
+.row{
+  margin-right: -20px;
+    margin-left: -20px;
+}
