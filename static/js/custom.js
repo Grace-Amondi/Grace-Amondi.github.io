@@ -340,7 +340,8 @@
 		              'Sustainability',
 					  'Preparedness',
 					  'Resilience',
-					  'Response'
+					  'Response',
+					  'Adaptation'
 		            ],
 		            breakLines: false
 		        }); 
