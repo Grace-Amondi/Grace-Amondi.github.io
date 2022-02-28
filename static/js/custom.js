@@ -337,9 +337,10 @@
 		            speed: 200,
 		            loop:true,
 		            strings: [
-		              'Developer',
-					  'Tutor',
-					  'Blogger'
+		              'Sustainability',
+					  'Preparedness',
+					  'Resilience',
+					  'Response'
 		            ],
 		            breakLines: false
 		        }); 
